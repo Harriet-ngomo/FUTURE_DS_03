@@ -3,7 +3,7 @@
 This project analyzes **student feedback data** collected through a survey (Google Forms export).  
 The aim is to understand **satisfaction trends**, map **ratings to sentiment categories** and generate **actionable recommendations** for improving campus events and learning experiences.
 
----
+
 
 ##  Project Objectives
 1. **Data Cleaning & Preparation**  
@@ -29,7 +29,7 @@ The aim is to understand **satisfaction trends**, map **ratings to sentiment cat
    - Highlight areas of improvement based on feedback patterns.  
    - Support decision-making for better student engagement and academic delivery.  
 
----
+
 
 ##  Tools & Libraries
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
@@ -38,7 +38,7 @@ The aim is to understand **satisfaction trends**, map **ratings to sentiment cat
 - **Sentiment Mapping:** Ratings → Sentiment (Positive, Neutral, Negative)  
 - **Power BI** for interactive dashboarding  
 
----
+
 
 ##  Key Insights
 - **Most feedback is Positive** (70% of responses).  
@@ -46,7 +46,7 @@ The aim is to understand **satisfaction trends**, map **ratings to sentiment cat
 - **Negative feedback is minimal** (0.12%).  
 - Average student satisfaction score: **3.89 / 5**.  
 
----
+
 
 ## Visual Highlights
 
@@ -59,9 +59,9 @@ The aim is to understand **satisfaction trends**, map **ratings to sentiment cat
 ### Power BI Dashboard
 Below is a sample **dashboard** built in Power BI to present insights interactively:  
 
-![Student Satisfaction Dashboard](./837cda2d-05be-4103-85f4-8ed3ebb92b00.png)
+![Student Satisfaction Dashboard]([./837cda2d-05be-4103-85f4-8ed3ebb92b00.png](https://github.com/Harriet-ngomo/FUTURE_DS_03/tree/f7f75a47b4fef7d951a7eab46afbe38c47da1d80/images))
 
----
+
 
 ## 📂 Dataset Overview
 - **Shape:** 580 rows × 12 columns  
