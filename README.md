@@ -59,8 +59,7 @@ The aim is to understand **satisfaction trends**, map **ratings to sentiment cat
 ### Power BI Dashboard
 Below is a sample **dashboard** built in Power BI to present insights interactively:  
 
-![Student Satisfaction Dashboard](./images/837cda2d-05be-4103-85f4-8ed3ebb92b00.png)
-
+![Student Satisfaction Dashboard](https://raw.githubusercontent.com/Harriet-ngomo/FUTURE_DS_03/5e3b018cb5b0df3da7fef5adc93f2a38b46ae289/images/Screenshot%202025-09-03%20153002.png)
 
 
 
