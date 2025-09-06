@@ -1,5 +1,8 @@
 # 🎓 Student Satisfaction Survey Analysis
 
+
+![Student Satisfaction Dashboard](https://github.com/Harriet-ngomo/FUTURE_DS_03/blob/4e4ce04fd9a445958813816ebf2a49a8bf70596d/images/Student%20satisfaction%20Dashboard.png)
+
 This project analyzes **student feedback data** collected through a survey (Google Forms export).  
 The aim is to understand **satisfaction trends**, map **ratings to sentiment categories** and generate **actionable recommendations** for improving campus events and learning experiences.
 
@@ -62,7 +65,9 @@ Below is a sample **dashboard** built in Power BI to present insights interactiv
 ![Student Satisfaction Dashboard](https://raw.githubusercontent.com/Harriet-ngomo/FUTURE_DS_03/a65ce70d08bc442f380c10b91eb375a19684b373/images/Screenshot%202025-09-03%20161717.png)
 
 
-![Student Satisfaction Dashboard](https://github.com/Harriet-ngomo/FUTURE_DS_03/blob/cf076c87e36f30ae949c0c348cbd33538d9ac336/images/Screenshot%202025-09-02%20223354.png)
+
+![Student Satisfaction Dashboard](https://github.com/Harriet-ngomo/FUTURE_DS_03/blob/4e4ce04fd9a445958813816ebf2a49a8bf70596d/images/Student%20satisfaction%20Dashboard.png)
+
 
 
 ## 📂 Dataset Overview
