@@ -64,7 +64,7 @@ Below is a sample **dashboard** built in Power BI to present insights interactiv
 
 ![Student Satisfaction Dashboard](https://raw.githubusercontent.com/Harriet-ngomo/FUTURE_DS_03/a65ce70d08bc442f380c10b91eb375a19684b373/images/Screenshot%202025-09-03%20161717.png)
 
-
+![Student Satisfaction Report](https://github.com/Harriet-ngomo/FUTURE_DS_03/blob/2144c81bcfa8698033bf41fdc1f5059df8fbd6b3/images/Screenshot%202025-09-02%20223354.png)
 
 ![Student Satisfaction Dashboard](https://github.com/Harriet-ngomo/FUTURE_DS_03/blob/4e4ce04fd9a445958813816ebf2a49a8bf70596d/images/Student%20satisfaction%20Dashboard.png)
 
